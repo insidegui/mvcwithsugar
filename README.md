@@ -2,7 +2,7 @@
 
 Companion Playground for my talk at dotSwift 2020.
 
-[Slides](./mvc_with_sugar.pdf)
+[Slides](./MVCWithSugar.pdf)
 
 [Video coming soon](#)
 
